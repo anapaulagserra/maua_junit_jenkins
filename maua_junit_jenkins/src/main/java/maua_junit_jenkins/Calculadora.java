@@ -5,4 +5,9 @@ public class Calculadora {
 		
 		return a+b;
 	}
+	public int multiplicacao (int a, int b) {
+		return a * b;
+	}	
+	
+	
 }
